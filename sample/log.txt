@@ -1,0 +1,19 @@
+HTTP/1.1 302 Found
+Date: Mon, 13 Nov 2017 04:15:19 GMT
+Server: Apache/2.4.6 (CentOS)
+Expires: Wed, 01 Jan 1997 12:00:00 GMT
+Cache-Control: private,no-store,no-cache,max-age=0
+Location: https://courses.cs.washington.eduhttp://courses.cs.washington.edu/courses/cse461/17au/projects/projProxy/simple.html
+Content-Length: 390
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://courses.cs.washington.eduhttp://courses.cs.washington.edu/courses/cse461/17au/projects/projProxy/simple.html">here</a>.</p>
+<hr>
+<address>Apache/2.4.6 (CentOS) Server at courses.cs.washington.edu Port 80</address>
+</body></html>
